@@ -5,9 +5,12 @@
 <br>
 📄 Know about my experiences [https://drive.google.com/file/d/1MuaImR8QbLBxuYQBOiVmI56c_m5jOOkr/view](https://drive.google.com/file/d/1MuaImR8QbLBxuYQBOiVmI56c_m5jOOkr/view)
 
-🚀<h3 align="start">Gools for 2021</h3>
+<h3 align="start"> 🚀 Gools for 2021</h3>
 
-<h3 align="start"> 💻 Social</h3>
+<h3 align="start"> 💻 Contact with me:</h3>
+<ul>
+  <li> Linkedin<li>
+  </ul>
 <hr>
 You can find me on the following social media platforms.
 
