@@ -7,12 +7,9 @@
 
 <h3 align="start"> 🚀 Gools for 2021</h3>
 
-<h3 align="start"> 💻 Contact with me:</h3>
+<h4 align="start"> 💻 Contact with me:</h3>
 <ul>
-  <li> Linkedin<li>
-  </ul>
-<hr>
-You can find me on the following social media platforms.
+  <li> <a> herf="https://www.linkedin.com/in/sheikhshariar/" Linkedin<li>
+ </ul>
 
-👉
 
