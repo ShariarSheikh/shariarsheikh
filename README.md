@@ -9,10 +9,9 @@
 
 <h4 align="start"> 💻 Contact with me:</h3>
 <ul>
-   <li> <a herf="https://linkedin.com/in/sheikhshariar/"> <b> Linkedin</b></a>  </li>
-    <li> <a href="https://twitter.com/sheikhshariar6">Twitter</a>  </li> 
-   <li> <a herf="https://facebook.com/profile.php?id=100053248808536">Facebook</a> </li> 
-    <li> <a href="https://twitter.com/sheikhshariar6">lldjflslajd</a>  </li> 
+   <li> <a href="https://linkedin.com/in/sheikhshariar/"> <b> Linkedin</b></a>  </li>
+   <li> <a href="https://twitter.com/sheikhshariar6"> <b>  Twitter </b> </a>  </li> 
+   <li> <a href="https://facebook.com/profile.php?id=100053248808536"> <b>Facebook </b> </a> </li> 
  </ul>
 
 
