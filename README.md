@@ -9,7 +9,8 @@
 
 <h4 align="start"> 💻 Contact with me:</h3>
 <ul>
-  <li> <a> herf="https://www.linkedin.com/in/sheikhshariar/" Linkedin<li>
+  <li> <a herf="https://www.linkedin.com/in/sheikhshariar/"> </a> Linkedin<li>
+    <li> <a href="https://www.w3schools.com">Visit W3Schools.com!</a> <li>
  </ul>
 
 
