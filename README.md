@@ -1,9 +1,9 @@
 <h1 align="start">Hi😊, I'm Shariar</h1>
 <h3 align="start">A passionate web developer from Bangladesh</h3>
 
-👨‍ All of my projects are available at [https://sheikh-shariar.web.app/](https://sheikh-shariar.web.app/)
-<br>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1MuaImR8QbLBxuYQBOiVmI56c_m5jOOkr/view"> <b> Resume</b></a>
+<p> 👨‍ All of my projects are available at: <a href="https://sheikh-shariar.web.app/"> <b> my portfoio</b></a></p>
+<p> 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1MuaImR8QbLBxuYQBOiVmI56c_m5jOOkr/view"> <b> resume</b></a></p>
+
 <br>
 <h4 align="start"> 🚀 Gools for 2021</h3>
 <h4 align="start"> 💻 Contact with me:</h3>
