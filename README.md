@@ -3,7 +3,6 @@
 
  👨‍ All of my projects are available at: <a href="https://shariar.vercel.app/"> <b> my portfoio</b></a>
  <br>
- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1MuaImR8QbLBxuYQBOiVmI56c_m5jOOkr/view"> <b> resume</b></a>
 <br>
 <h4 align="start"> 🚀 Gools for 2021</h3>
 <h4 align="start"> 💻 Contact with me:</h3>
