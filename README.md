@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariarsheikh" alt="shariarsheikh" /></a> </p>
 
-- 🌱 I’m currently learning **Nest js**
-
 - 👨‍💻 All of my projects are available at [https://shariar.vercel.app/work](https://shariar.vercel.app/work)
-
-- 💬 Ask me about **Javascript, React Js, Next Js**
 
 - 📫 How to reach me **https://shariar.vercel.app/**
 
